@@ -1,2 +1,3 @@
 # python_study
-just studying~
+회사 출퇴근 시간에 깃허브로 공부한거나 보려고 만듦
+출퇴근 시간 아껴서 
